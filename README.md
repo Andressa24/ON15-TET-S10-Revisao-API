@@ -13,6 +13,7 @@ Aprender a aprender pode ser muito doloroso, mas eu te garanto uma coisa: é lib
 
 ---
 
+
 ## Revisão
 
 Essa revisão vai te ajudar a relembrar conceitos e modelos para estabelecer o seu mapa mental de aprendizado! 😃
